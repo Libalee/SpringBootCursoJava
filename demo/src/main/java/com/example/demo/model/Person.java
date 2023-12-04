@@ -2,10 +2,6 @@ package com.example.demo.model;
 
 import java.io.Serializable;
 import java.util.Objects;
-import java.util.concurrent.atomic.AtomicLong;
-
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
